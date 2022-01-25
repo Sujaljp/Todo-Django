@@ -7,3 +7,5 @@ There are now a million different things you could be doing.
 
 <img src="a.png" width="480">
 <img src="B.png" width="480">
+<img src="c.png" width="480">
+<img src="d.png" width="480">
